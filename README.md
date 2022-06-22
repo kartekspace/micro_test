@@ -1,2 +1,2 @@
 # micro_test
-welcome 1001
+welcome 10AAAA
